@@ -74,10 +74,3 @@ Feel free to open issues or PRs. If you add features that change public behavior
 ## License
 
 This project does not include a license file. Add one if you plan to share the code publicly.
-
----
-
-If you'd like, I can:
-
-- Replace the hard-coded secret in `src/lib/signGen.ts` with a secure environment variable pattern and update the README with example `.env` usage.
-- Add a small demo page in `src` showing a sample payment flow.
